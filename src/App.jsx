@@ -1,8 +1,8 @@
-import BalloonPop from './BalloonPop';
+import BalloonPop from "./BalloonPop";
 
 function App() {
   return (
-    <div className="App">
+    <div>
       <BalloonPop />
     </div>
   );
